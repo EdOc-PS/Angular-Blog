@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200;6..12,300;6..12,400;6..12,500;6..12,700;6..12,900;6..12,1000&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito Sans';
+}
+
+body {
+  background: linear-gradient(135deg, #deeeff 30%, #e6e1fc 60%, #fbdeef 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 1rem;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+p {
+  color: #919DB0
+}
+
+a {
+
+  text-decoration: none;
+}
+
+h1,
+h3,
+a {
+  color: #3f4e65;
+}

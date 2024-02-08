@@ -1,0 +1,11 @@
+.more-cards{
+  margin-top: 35px;
+  display: flex;
+  gap: 1.5rem;
+}
+.body-principal{
+  background: linear-gradient(135deg,  #F6FAFE 50%,  #fcf1fc);
+  box-shadow: 0px 5px 30px #c3d0e2;
+  border-radius: 15px;
+  padding: 1rem 4rem 2rem 4rem;
+}

@@ -1,0 +1,10 @@
+.title-container {
+  width: 100%;
+  
+}
+.title-container h1 {
+  text-transform: uppercase;
+  font-size: 100px;
+  font-weight: 900;
+  letter-spacing: 5px;
+}

@@ -1,0 +1,9 @@
+
+.background-blog{
+  background: linear-gradient(135deg,  #F6FAFE 50%,  #fcf1fc);
+  width: 85vw;
+  box-shadow: 0px 5px 30px #c3d0e2;
+  border-radius: 15px;
+  padding: 0 4rem;
+}
+
